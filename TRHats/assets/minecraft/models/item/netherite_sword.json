@@ -1,0 +1,13 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+      "layer0": "minecraft:item/netherite_sword"
+    },
+    "overrides": [
+       {"predicate": {"custom_model_data": 1}, "model": "hats:item/bloquear"},
+        {"predicate": {"custom_model_data": 3400}, "model": "hats:item/lawsword"},
+        {"predicate": {"custom_model_data": 4500}, "model": "hats:item/yutasword"},
+        {"predicate": {"custom_model_data": 5500}, "model": "hats:item/espadasantux"}
+    ]
+}
+

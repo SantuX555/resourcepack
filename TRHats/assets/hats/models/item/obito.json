@@ -1,0 +1,91 @@
+{
+	"credit": "Model generated using MrCrayfish's Model Creator (https://mrcrayfish.com/tools?id=mc)",
+	"ambientocclusion": false,
+	"texture_size": [8, 10],
+	"textures": {
+		"0": "hats:item/obito",
+		"particle": "hats:item/obito"
+	},
+	"elements": [
+		{
+			"name": "Cube",
+			"from": [4, 0, 12],
+			"to": [12, 8, 12.5],
+			"faces": {
+				"north": {"uv": [16, 0, 0, 12.8], "texture": "#0"},
+				"east": {"uv": [0, 0, 1, 12.8], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 12.8], "texture": "#0"},
+				"west": {"uv": [0, 0, 1, 12.8], "texture": "#0"},
+				"up": {"uv": [16, 0, 0, 0.8], "texture": "#0"},
+				"down": {"uv": [16, 0, 0, 0.8], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Cube",
+			"from": [12, 4, 4],
+			"to": [12, 6, 12],
+			"faces": {
+				"east": {"uv": [0, 12.8, 16, 16], "texture": "#0"},
+				"west": {"uv": [16, 12.8, 0, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Cube",
+			"from": [4, 4, 4],
+			"to": [4, 6, 12],
+			"faces": {
+				"east": {"uv": [0, 12.8, 16, 16], "texture": "#0"},
+				"west": {"uv": [16, 12.8, 0, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Cube",
+			"from": [4, 4, 4],
+			"to": [12, 6, 4],
+			"faces": {
+				"north": {"uv": [0, 12.8, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 12.8, 16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [70, -145, 0],
+			"translation": [0, 2, 2],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [70, -145, 0],
+			"translation": [0, 2, 2],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -45, 0],
+			"translation": [0, 6.25, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -45, 0],
+			"translation": [0, 6.25, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"gui": {
+			"translation": [0, 5, 0],
+			"scale": [1.2, 1.2, 1.2]
+		},
+		"head": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 7.25, 0],
+			"scale": [1.81, 1.81, 1.81]
+		},
+		"fixed": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 6.25, 8],
+			"scale": [2, 2, 2]
+		}
+	}
+}

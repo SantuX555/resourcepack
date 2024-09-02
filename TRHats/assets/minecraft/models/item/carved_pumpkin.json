@@ -1,0 +1,14 @@
+{
+    "parent": "minecraft:block/carved_pumpkin",
+    "overrides": [
+        {"predicate": {"custom_model_data": 1200}, "model": "hats:item/fish"},
+        {"predicate": {"custom_model_data": 1300}, "model": "hats:item/frog"},
+        {"predicate": {"custom_model_data": 2700}, "model": "hats:item/obito"},
+        {"predicate": {"custom_model_data": 3400}, "model": "hats:item/law"},
+        {"predicate": {"custom_model_data": 3700}, "model": "hats:item/orejitas"},
+        {"predicate": {"custom_model_data": 5500}, "model": "hats:item/cascosantux"},
+        {"predicate": {"custom_model_data": 6900}, "model": "hats:item/faso"},
+        {"predicate": {"custom_model_data": 7700}, "model": "hats:item/mugiwara"}
+    ]
+}
+

@@ -1,0 +1,12 @@
+{
+    "parent": "item/generated",
+    "textures": {
+      "layer0": "minecraft:item/iron_nugget"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data": 5500}, "model": "hats:item/ger"},
+        {"predicate": {"custom_model_data": 5501}, "model": "hats:item/glados"},
+        {"predicate": {"custom_model_data": 5502}, "model": "hats:item/ram"}
+    ]
+}
+
