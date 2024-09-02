@@ -1,1 +1,1 @@
-# resoursecepack
+# resourcepack
